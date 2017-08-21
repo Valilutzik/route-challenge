@@ -1,2 +1,2 @@
-./node_modules
-./lib/serverBackup.js
+/node_modules
+/lib/serverBackup.js
